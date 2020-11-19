@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- *
- * @author karim
- */
 public class NearlyLuckyNumber {
     public static void main(String[] args) {
 
