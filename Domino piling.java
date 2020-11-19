@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 /**
  *
- * @author lenovo
  */
 public class Dominopiling {
     public static void main(String[] args) {
