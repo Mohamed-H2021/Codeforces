@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- *
- * @author Fujitsu
- */
 public class Sleuth {
     public static void main(String[] args) {
         Sleuth object=new Sleuth();
