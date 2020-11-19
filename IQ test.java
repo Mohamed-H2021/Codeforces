@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- *
- * @author karim
- */
 public class IQtest {
     public static void main(String[] args) {
 Scanner input=new Scanner(System.in);
