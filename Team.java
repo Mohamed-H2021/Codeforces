@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- *
- * @author lenovo
- */
 public class Team {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
